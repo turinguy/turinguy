@@ -1,8 +1,5 @@
 ### Hello there 👋
 
-<!--
-**turinguy/turinguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Moodle LMS in Schoolgram.
@@ -11,5 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about history of computers and programming, pop culture, sci-fi and tech community.
 - 📫 How to reach me: abdullah.nafees@arbisoft.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I do Jiu Jitsu and boxing in my free time. My wife is also a programmer.
--->
+- ⚡ Fun fact: I do Jiu Jitsu and boxing in my free time. My wife is also a programmer
